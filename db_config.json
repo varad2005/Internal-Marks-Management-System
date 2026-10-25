@@ -1,0 +1,13 @@
+{
+    "db_engine": "sqlite",
+    "mysql": {
+        "host": "localhost",
+        "port": 3306,
+        "user": "root",
+        "password": "",
+        "database": "internal_marks_db"
+    },
+    "sqlite": {
+        "database": "internal_marks.db"
+    }
+}

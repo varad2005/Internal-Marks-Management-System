@@ -1,0 +1,5 @@
+# Dependencies for Internal Marks Management System
+# K.K. Wagh Institute of Engineering Education and Research
+# Academic Year 2026-27
+
+mysql-connector-python>=8.0.33
